@@ -33,7 +33,7 @@
         "three": "^0.186.1"
     },
     "devDependencies": {
-        "@biomejs/biome": "^2.5.15",
+        "@biomejs/biome": "^2.6.3",
         "@capacitor/cli": "^8.5.3",
         "@types/node": "^26.6.5",
         "@types/react": "^19.3.0",
